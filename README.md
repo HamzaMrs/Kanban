@@ -19,11 +19,6 @@ Cette application offre une expérience complète de gestion de projet type Kanb
 *   **Drag & Drop** : Déplacez intuitivement les tâches d'une colonne à une autre par glisser-déposer pour changer leur statut.
 *   **Statuts** : Les colonnes représentent les statuts (ex: À faire, En cours, Terminée).
 
-### Interface Utilisateur (UI/UX)
-*   **Thèmes** : Basculez entre le mode Clair (Light Mode) et le mode Sombre (Dark Mode) selon vos préférences.
-*   **Responsive** : L'interface s'adapte parfaitement aux mobiles, tablettes et ordinateurs de bureau.
-*   **Barre Latérale** : Possibilité de masquer/afficher la barre latérale pour maximiser l'espace de travail.
-*   **Validation** : Formulaires avec validation pour garantir l'intégrité des données.
 
 ## 🛠 Stack Technique
 
