@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kanban/static/css/main.602e1efd.css",
-    "main.js": "/Kanban/static/js/main.951e2aa2.js",
+    "main.js": "/Kanban/static/js/main.bc96543a.js",
     "static/js/787.8ae57a5b.chunk.js": "/Kanban/static/js/787.8ae57a5b.chunk.js",
     "index.html": "/Kanban/index.html",
     "static/media/icon-light-theme.svg": "/Kanban/static/media/icon-light-theme.b98efecd506358014a7ae1eadb34e36c.svg",
@@ -16,11 +16,11 @@
     "static/media/icon-chevron-down.svg": "/Kanban/static/media/icon-chevron-down.77595c15c9072ba0ef8a21ab5cc8c376.svg",
     "static/media/icon-chevron-up.svg": "/Kanban/static/media/icon-chevron-up.6918f905519d47589a92103b48580f45.svg",
     "main.602e1efd.css.map": "/Kanban/static/css/main.602e1efd.css.map",
-    "main.951e2aa2.js.map": "/Kanban/static/js/main.951e2aa2.js.map",
+    "main.bc96543a.js.map": "/Kanban/static/js/main.bc96543a.js.map",
     "787.8ae57a5b.chunk.js.map": "/Kanban/static/js/787.8ae57a5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.602e1efd.css",
-    "static/js/main.951e2aa2.js"
+    "static/js/main.bc96543a.js"
   ]
 }
