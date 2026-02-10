@@ -1,0 +1,63 @@
+# Kanban - Application de Gestion de Tâches
+
+Bienvenue sur l'application de gestion de tâches Kanban. Ce projet est une solution au défi [Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB), entièrement traduite en français et optimisée.
+
+## 🌟 Fonctionnalités
+
+Cette application offre une expérience complète de gestion de projet type Kanban :
+
+### Gestion des Tableaux (Boards)
+*   **Création & Édition** : Créez de nouveaux tableaux pour différents projets.
+*   **Suppression** : Supprimez les tableaux obsolètes (avec confirmation).
+*   **Navigation** : Basculez facilement entre vos différents tableaux via la barre latérale.
+
+### Gestion des Tâches & Colonnes
+*   **CRUD Complet** : Créez, lisez, mettez à jour et supprimez des tâches et des colonnes.
+*   **Sous-tâches** : Divisez une tâche complexe en plusieurs sous-tâches et suivez leur progression.
+*   **Drag & Drop** : Déplacez intuitivement les tâches d'une colonne à une autre par glisser-déposer pour changer leur statut.
+*   **Statuts** : Les colonnes représentent les statuts (ex: À faire, En cours, Terminée).
+
+### Interface Utilisateur (UI/UX)
+*   **Thèmes** : Basculez entre le mode Clair (Light Mode) et le mode Sombre (Dark Mode) selon vos préférences.
+*   **Responsive** : L'interface s'adapte parfaitement aux mobiles, tablettes et ordinateurs de bureau.
+*   **Barre Latérale** : Possibilité de masquer/afficher la barre latérale pour maximiser l'espace de travail.
+*   **Validation** : Formulaires avec validation pour garantir l'intégrité des données.
+
+## 🛠 Stack Technique
+
+Ce projet a été construit avec les technologies modernes suivantes :
+
+*   **[React](https://reactjs.org/)** : Bibliothèque JavaScript pour l'interface utilisateur.
+*   **[Redux Toolkit](https://redux-toolkit.js.org/)** : Gestionnaire d'état global pour gérer les tableaux et les tâches de manière prévisible.
+*   **CSS** : Styles personnalisés pour une identité visuelle unique.
+*   **React Responsive** : Pour gérer les comportements spécifiques aux différentes tailles d'écran.
+*   **UUID** : Pour la génération d'identifiants uniques.
+
+## 🚀 Comment lancer le projet
+
+Pour installer et lancer l'application localement sur votre machine, suivez ces étapes :
+
+### Prérequis
+Assurez-vous d'avoir [Node.js](https://nodejs.org/) installé sur votre machine.
+
+### Installation
+  
+Installez les dépendances nécessaires :
+    ```bash
+    npm install
+    ```
+
+### Lancement
+
+Une fois l'installation terminée, lancez le serveur de développement :
+
+```bash
+npm start
+```
+
+L'application s'ouvrira automatiquement dans votre navigateur par défaut à l'adresse [http://localhost:3000](http://localhost:3000).
+
+---
+*Traduit et amélioré par GitHub Copilot.*
+
+
