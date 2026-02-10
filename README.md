@@ -1,6 +1,6 @@
 # Kanban - Application de Gestion de Tâches
 
-Bienvenue sur l'application de gestion de tâches Kanban. Ce projet est une solution au défi [Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB), entièrement traduite en français et optimisée.
+Bienvenue sur l'application de gestion de tâches Kanban.
 
 ## 🌟 Fonctionnalités
 
@@ -57,7 +57,6 @@ npm start
 
 L'application s'ouvrira automatiquement dans votre navigateur par défaut à l'adresse [http://localhost:3000](http://localhost:3000).
 
----
-*Traduit et amélioré par GitHub Copilot.*
+
 
 
