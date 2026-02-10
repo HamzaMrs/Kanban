@@ -295,10 +295,13 @@
               "title": "Planifier le lancement sur Product Hunt",
               "description": "",
               "status": "À faire",
-              "subtasks": [                  "isCompleted": false
+              "subtasks": [
+                {
+                  "title": "Trouver un hunter",
+                  "isCompleted": false
                 },
                 {
-                  "title": "Gather assets",
+                  "title": "Rassembler les ressources",
                   "isCompleted": false
                 },
                 {
