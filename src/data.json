@@ -305,61 +305,61 @@
                   "isCompleted": false
                 },
                 {
-                  "title": "Draft product page",
+                  "title": "Rédiger la page produit",
                   "isCompleted": false
                 },
                 {
-                  "title": "Notify customers",
+                  "title": "Informer les clients",
                   "isCompleted": false
                 },
                 {
-                  "title": "Notify network",
+                  "title": "Informer le réseau",
                   "isCompleted": false
                 },
                 {
-                  "title": "Launch!",
+                  "title": "Lancer !",
                   "isCompleted": false
                 }
               ]
             },
             {
-              "title": "Share on Show HN",
+              "title": "Partager sur Show HN",
               "description": "",
               "status": "",
               "subtasks": [
                 {
-                  "title": "Draft out HN post",
+                  "title": "Rédiger le post HN",
                   "isCompleted": false
                 },
                 {
-                  "title": "Get feedback and refine",
+                  "title": "Obtenir des retours et affiner",
                   "isCompleted": false
                 },
                 {
-                  "title": "Publish post",
+                  "title": "Publier le post",
                   "isCompleted": false
                 }
               ]
             },
             {
-              "title": "Write launch article to publish on multiple channels",
+              "title": "Écrire un article de lancement",
               "description": "",
               "status": "",
               "subtasks": [
                 {
-                  "title": "Write article",
+                  "title": "Écrire l'article",
                   "isCompleted": false
                 },
                 {
-                  "title": "Publish on LinkedIn",
+                  "title": "Publier sur LinkedIn",
                   "isCompleted": false
                 },
                 {
-                  "title": "Publish on Inndie Hackers",
+                  "title": "Publier sur Indie Hackers",
                   "isCompleted": false
                 },
                 {
-                  "title": "Publish on Medium",
+                  "title": "Publier sur Medium",
                   "isCompleted": false
                 }
               ]
@@ -367,11 +367,11 @@
           ]
         },
         {
-          "name": "Doing",
+          "name": "En cours",
           "tasks": []
         },
         {
-          "name": "Done",
+          "name": "Terminé",
           "tasks": []
         }
       ]
@@ -381,38 +381,38 @@
       "isActive" : false,
       "columns": [
         {
-          "name": "Now",
+          "name": "Maintenant",
           "tasks": [
             {
-              "title": "Launch version one",
+              "title": "Lancer la version 1",
               "description": "",
               "status": "",
               "subtasks": [
                 {
-                  "title": "Launch privately to our waitlist",
+                  "title": "Lancer en privé pour notre liste d'attente",
                   "isCompleted": false
                 },
                 {
-                  "title": "Launch publicly on PH, HN, etc.",
+                  "title": "Lancer publiquement sur PH, HN, etc.",
                   "isCompleted": false
                 }
               ]
             },
             {
-              "title": "Review early feedback and plan next steps for roadmap",
-              "description": "Beyond the initial launch, we're keeping the initial roadmap completely empty. This meeting will help us plan out our next steps based on actual customer feedback.",
+              "title": "Examiner les premiers retours et planifier plus",
+              "description": "Au-delà du lancement initial, nous gardons la roadmap initiale complètement vide. Cette réunion nous aidera à planifier nos prochaines étapes en fonction des retours réels des clients.",
               "status": "",
               "subtasks": [
                 {
-                  "title": "Interview 10 customers",
+                  "title": "Interviewer 10 clients",
                   "isCompleted": false
                 },
                 {
-                  "title": "Review common customer pain points and suggestions",
+                  "title": "Examiner les problèmes courants",
                   "isCompleted": false
                 },
                 {
-                  "title": "Outline next steps for our roadmap",
+                  "title": "Esquisser les prochaines étapes",
                   "isCompleted": false
                 }
               ]
@@ -420,11 +420,11 @@
           ]
         },
         {
-          "name": "Next",
+          "name": "Prochainement",
           "tasks": []
         },
         {
-          "name": "Later",
+          "name": "Plus tard",
           "tasks": []
         }
       ]
